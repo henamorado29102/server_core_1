@@ -1,0 +1,155 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project outputs
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# User-specific files (Visual Studio Code)
+.vscode/
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if using .NET Core/ASP.NET Core:
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Uncomment if using .NET:
+*.nuget.props
+*.nuget.targets
+project.lock.json
+artifacts/
+
+# Uncomment if using ASP.NET/ASP.NET Core:
+wwwroot/
+**/wwwroot/
+**/[Ll]ib/
+**/[Nn]ode_modules/
+**/bower_components/
+packages/
+**/bin/
+**/obj/
+*.vspscc
+*.vssscc
+*.userosscache
+.vscode/
+
+# Ignore the App_data folder (contains temporary data)
+[App_Data]
+
+# Ignore packages folder (for NuGet packages)
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore build results of NuGet
+.nuget/
+
+# Uncomment if using xUnit.net
+TestResults/
+
+# Uncomment if using MSTest
+TestResults/
+
+# Azure Web Apps configuration
+.azure/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# SVN directories
+.svn/
+
+# Ignore JetBrains Rider IDE project files
+.idea/
+
+# Rider configurations
+.idea/
+*.sln.iml
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs.db:encryptable
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NFS files
+.NFS*
+
+# Visual Studio 2019
+.vs/
+
+# Visual Studio temporary files
+.vscode/
+
+# Rider temporary files
+.idea/
+
+# Ignore custom config files
+appsettings.*.json
+
+# Ignore user secrets
+secrets.json
+
+# Ignore test projects output
+TestResults/
+TestResulsts.xml
+
+# Ignore node modules in case of any JS frameworks
+node_modules/
+
+# Ignore local history for Visual Studio Code
+.history/
